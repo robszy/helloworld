@@ -6,3 +6,4 @@ Nl dobra to będzie first change on remote
 
 
 test na master
+remote commit
