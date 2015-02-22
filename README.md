@@ -5,4 +5,4 @@ baaaaaolek i lolek
 Nl dobra to będzie first change on remote
 
 
-test na master
+test z mana master local
