@@ -6,3 +6,5 @@ Nl dobra to będzie first change on remote
 
 
 test z mana master local
+test na master
+remote commit
