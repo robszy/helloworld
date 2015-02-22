@@ -12,3 +12,5 @@ remote commit
 
 Jeszcze raz local
 remote commit v2
+
+TO teraz z rebase 
