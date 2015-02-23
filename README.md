@@ -17,6 +17,6 @@ TO teraz z rebase
 change exper
 
 dobra teraz już rebase
-
+c5
 commit c3
 commit c8
